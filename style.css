@@ -1,0 +1,62 @@
+html { 
+  font-size: 25px;
+  background: tan;
+}
+ body {
+   font-family: verdana;
+  
+  font-size: 20px;
+  line-height: 1.5;
+  text-align: center;
+  color: black;
+  margin: 0;
+ }
+
+@media (max-width: 480px) {
+  h1 {
+    font-size: 5.5rem;
+    line-height: 1.8;
+  }
+}
+
+#main {
+  margin: 30px 100px;
+  padding: 15px;
+  border-radius: 5px;
+  background: beige;
+  }
+@media (max-width: 460px) {
+  #main {
+    margin: 0 ;
+  }
+}
+
+#image{
+  max-width: 100%;
+  justify-content: center;
+  margin: 0 auto;
+  }
+
+ul {
+  max-width: 550px;
+  margin: auto;
+  text-align: left;
+  line-height: 1.7;
+}
+
+li {
+  margin: 17px 0;
+}
+  
+img  { 
+  display: block;
+  }
+ 
+ #img-caption {
+margin: ;
+padding: 
+
+
+ }
+ 
+ 
